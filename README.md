@@ -1,2 +1,2 @@
-# garipler
-Yakarsa Dünyayı Garipler Yakar
+Düzensiz dünyanın günahıdır bu
+Yakarsa dünyayı garipler yakar
